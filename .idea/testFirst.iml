@@ -11,11 +11,11 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 2.7.5 virtualenv at C:\Users\fuqiang\vmPy" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7.5 virtualenv at C:\Users\tongbuop\vmPy" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
-    <option name="myDocStringFormat" value="Plain" />
+    <option name="myDocStringFormat" value="Epytext" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
