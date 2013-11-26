@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 virtualenv at C:\Users\fuqiang\vmPy" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 virtualenv at C:\Users\tongbuop\vmPy" project-jdk-type="Python SDK" />
+>>>>>>> f079169f10c6f2290fd35399513ceabfd3fc01e2
 </project>
 
