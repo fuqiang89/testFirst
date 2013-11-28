@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbb9ff1-ae21-4541-be62-0106649dd36a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testFirst/settings.py" afterPath="$PROJECT_DIR$/testFirst/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testFirst.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,7 +61,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testFirst/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="10" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.7671642" vertical-offset="1722" max-vertical-offset="2392">
+            <state line="86" column="21" selection-start="2060" selection-end="2060" vertical-scroll-proportion="3.3373134" vertical-offset="0" max-vertical-offset="2392">
               <folding />
             </state>
           </provider>
@@ -90,15 +91,15 @@
         <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/app/tests.py" />
         <option value="$PROJECT_DIR$/app/models.py" />
-        <option value="$PROJECT_DIR$/testFirst/settings.py" />
         <option value="$PROJECT_DIR$/testFirst/urls.py" />
         <option value="$PROJECT_DIR$/app/te.py" />
+        <option value="$PROJECT_DIR$/testFirst/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="y" value="101" />
+    <option name="x" value="165" />
+    <option name="y" value="143" />
     <option name="width" value="1400" />
     <option name="height" value="831" />
   </component>
@@ -210,7 +211,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../codePy" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -487,8 +488,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="145" y="101" width="1400" height="831" extended-state="0" />
-    <editor active="false" />
+    <frame x="165" y="143" width="1400" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -627,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testFirst/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="10" selection-start="2049" selection-end="2049" vertical-scroll-proportion="0.7671642" vertical-offset="1722" max-vertical-offset="2392">
+        <state line="86" column="21" selection-start="2060" selection-end="2060" vertical-scroll-proportion="3.3373134" vertical-offset="0" max-vertical-offset="2392">
           <folding />
         </state>
       </provider>

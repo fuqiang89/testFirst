@@ -84,4 +84,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 TEMPLATE_DIRS = (
-'F:/django/www')
+'F:/django/testFirst/www')
