@@ -12,7 +12,7 @@ def current_datetime(request):
     html = t.render(Context({'current_date': now}))
     return HttpResponse(html)
 
-
+print "test git"
 
 
 
