@@ -15,9 +15,12 @@ def current_datetime(request):
 
 
 
+<<<<<<< HEAD
 print "hello"
 
 
+=======
+>>>>>>> 263338ef1df7e546ca13490cf4ca39f6f9d57ef0
 
 
 
