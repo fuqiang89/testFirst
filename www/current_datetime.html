@@ -1,1 +1,8 @@
-<html><body>It is now {{ current_date }}.</body></html>
+<html>
+<body>
+It is now {{ current_date }}.
+
+{% load staticfiles %}
+<img src="{% static "la.jpg" %}" alt="My image"/>
+
+</body></html>
