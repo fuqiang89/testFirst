@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbb9ff1-ae21-4541-be62-0106649dd36a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/te.py" afterPath="$PROJECT_DIR$/app/te.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testFirst.iws" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="te.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/te.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="15" selection-start="407" selection-end="407" vertical-scroll-proportion="0.34925374" vertical-offset="52" max-vertical-offset="780">
+            <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.3880597" vertical-offset="52" max-vertical-offset="780">
               <folding />
             </state>
           </provider>
@@ -495,7 +494,11 @@
       <created>1385604415703</created>
       <updated>1385604415703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tongbu">
+      <created>1385604473176</created>
+      <updated>1385604473176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -553,7 +556,8 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="sdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
+    <MESSAGE value="tongbu" />
+    <option name="LAST_COMMIT_MESSAGE" value="tongbu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -642,7 +646,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/te.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="15" selection-start="407" selection-end="407" vertical-scroll-proportion="0.34925374" vertical-offset="52" max-vertical-offset="780">
+        <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.3880597" vertical-offset="52" max-vertical-offset="780">
           <folding />
         </state>
       </provider>
