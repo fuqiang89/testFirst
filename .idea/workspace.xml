@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbb9ff1-ae21-4541-be62-0106649dd36a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/te.py" afterPath="$PROJECT_DIR$/app/te.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testFirst.iws" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="te.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/te.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.34925374" vertical-offset="26" max-vertical-offset="754">
+            <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.3880597" vertical-offset="26" max-vertical-offset="754">
               <folding />
             </state>
           </provider>
@@ -516,7 +515,11 @@
       <created>1385604704003</created>
       <updated>1385604704003</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tongbu">
+      <created>1385605179995</created>
+      <updated>1385605179995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -667,7 +670,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/te.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.34925374" vertical-offset="26" max-vertical-offset="754">
+        <state line="14" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.3880597" vertical-offset="26" max-vertical-offset="754">
           <folding />
         </state>
       </provider>
