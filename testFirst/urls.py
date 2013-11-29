@@ -12,4 +12,3 @@ urlpatterns = patterns('',
 
     url(r'^f/$',current_datetime),)
 
-

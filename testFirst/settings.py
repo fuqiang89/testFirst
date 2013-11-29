@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
+#ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
 
 #MEDIA_ROOT = os.path.abspath(os.path.join(ROOT_PATH, '..', 'media'))
 #MEDIA_URL = '/media/'
@@ -91,5 +92,28 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
 )
 
+
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
+
 TEMPLATE_DIRS = (
-'F:/django/testFirst/www')
+    # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
+    # Always use forward slashes, even on Windows.
+    # Don't forget to use absolute paths, not relative paths.
+    os.path.join(PROJECT_ROOT, 'templates').replace('\\','/'),
+)
+
+# List of callables that know how to import templates from various sources.
+TEMPLATE_LOADERS = (
+    'django.template.loaders.filesystem.Loader',
+    'django.template.loaders.app_directories.Loader',
+#     'django.template.loaders.eggs.Loader',
+)
+
+
+
+#PROJECT_PATH = os.path.realpath(os.path.dirname(__file__))
+
+#TEMPLATE_DIRS = (
+#os.path.join(ROOT_PATH, 'templates'),
+#)
+
